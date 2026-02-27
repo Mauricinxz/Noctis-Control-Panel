@@ -1,11 +1,11 @@
-🌙 Noctis OS Control Panel
+🌙 Noctis Control Panel
 Version 1.0
 
 Aplicativo em formato .exe, com interface gráfica moderna, focado em instalação rápida de aplicativos e gerenciamento avançado de serviços do Windows, mantendo identidade visual dark minimalista.
 
 🖤 Visão Geral
 
-O Noctis OS Control Panel foi desenvolvido para centralizar:
+O Noctis Control Panel foi desenvolvido para centralizar:
 
 📦 Instalação de programas via Winget
 ⚙ Gerenciamento de serviços do Windows
@@ -126,5 +126,5 @@ Interface gráfica funcional
 
 🌙 Assinatura
 
-Noctis OS
+Noctis 
 Performance in Silence.
